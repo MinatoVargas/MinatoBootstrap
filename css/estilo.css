@@ -1,0 +1,26 @@
+#footer
+{
+    background: #237590;
+    color: wheat;
+
+}
+#footer a
+{
+    color: white;
+    text-decoration: none;
+}
+#main img
+{
+max-height: 100vh;
+object-fit: cover;
+filter:grayscale(50%);
+}
+.foto  
+{
+    height:50vh; width:30vh;
+}
+body
+{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
